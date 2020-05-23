@@ -1,0 +1,10 @@
+{
+	"name": "React",
+	"priority": 900,
+	"runner": "runner.js",
+	"router": "index.js",
+	"git": {
+		"repo": "https://github.com/WebArtWork/react.git"
+	},
+	"dependencies": {}
+}

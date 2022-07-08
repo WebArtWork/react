@@ -2,7 +2,7 @@
 [React](https://reactjs.org) A JavaScript library for building user interfaces
 
 ## Getting Started
-### Create New Component
+### Create New Module
 `waw add NAME`
 `waw a NAME`
 

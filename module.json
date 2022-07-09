@@ -1,6 +1,6 @@
 {
 	"name": "React",
-	"priority": 999,
+	"priority": 2,
 	"runner": "runner.js",
 	"router": "index.js",
 	"git": {
